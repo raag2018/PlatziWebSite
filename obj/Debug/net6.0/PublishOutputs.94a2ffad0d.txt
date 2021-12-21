@@ -1,0 +1,7 @@
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\PlatziWebSite.exe
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\appsettings.json
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\PlatziWebSite.dll
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\PlatziWebSite.deps.json
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\PlatziWebSite.runtimeconfig.json
+C:\Sistemas\htdocs\PlatziWebSite\bin\Debug\net6.0\publish\PlatziWebSite.pdb
